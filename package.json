@@ -2,7 +2,7 @@
   "name": "01_navbar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Aneeta021/Navabr_rjs_01.git",
+  "homepage": "https://Aneeta021.github.io/Navabr_rjs_01",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
